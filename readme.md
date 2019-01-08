@@ -43,6 +43,6 @@ python3 test.py
 
 
 ## Reference:
-[Keras-SRGAN)](https://github.com/deepak112/Keras-SRGAN)</br>
+[Keras-SRGAN](https://github.com/deepak112/Keras-SRGAN)</br>
 [
 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
