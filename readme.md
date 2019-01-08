@@ -29,5 +29,19 @@
 python3 test.py
 `
 
-Reference:
+## Output 
+
+## High Resolution
+![High](./output/0_hr.jpg)
+
+## Low Resolution
+![Low](./output/0lr.jpg) <br/>
+
+
+## Prediction
+![Predict](./output/0_predict.jpg) <br/>
+
+
+## Reference:
 [/Keras-SRGAN)](https://github.com/deepak112/Keras-SRGAN)
+[Paper](https://arxiv.org/abs/1609.04802)
