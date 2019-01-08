@@ -25,9 +25,9 @@
     
 
 ## How to use
-'
+`
 python3 test.py
-'
+`
 
 Reference:
 [/Keras-SRGAN)](https://github.com/deepak112/Keras-SRGAN)
